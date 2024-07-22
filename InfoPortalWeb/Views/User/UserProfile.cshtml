@@ -1,0 +1,27 @@
+﻿@model InfoPortalWeb.Models.User
+
+@{
+    ViewData["Title"] = "User Profile";
+    var checkSession = ViewBag.checkSession;
+    Layout = "~/Views/Shared/_userLayout.cshtml";
+}
+
+<h1>User Profile</h1>
+
+<form asp-action="UserProfile" method="post">
+    <div class="form-group">
+        <label for="name">Name:</label>
+        <input type="text" name="Name" class="form-control" value="@Model.Name" required />
+    </div>
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" name="Email" class="form-control" value="@Model.Email" required />
+    </div>
+    <div class="form-group">
+        <label for="password">Password:</label>
+        <input type="password" name="Password" class="form-control" value="@Model.Password" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Update Profile</button>
+</form>
+
+<a href="@Url.Action("Index")">Back to Dashboard</a>

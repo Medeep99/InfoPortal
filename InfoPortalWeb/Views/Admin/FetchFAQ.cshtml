@@ -1,0 +1,33 @@
+﻿@model List<InfoPortalWeb.Models.FAQ>
+
+@{
+    ViewData["Title"] = "FAQ";
+    var checkSession = ViewBag.checkSession;
+}
+
+<h1>FAQ</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Question</th>
+            <th>Answer</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var faq in Model)
+        {
+            <tr>
+                <td>@faq.Quesiton</td>
+                <td>@faq.Answer</td>
+                <td>
+                    <a href="@Url.Action("FetchFAQ", new { ID = faq.ID })" class="btn btn-primary">View</a> |
+                    <a href="@Url.Action("DeleteFAQ", new { ID = faq.ID })" class=" btn btn-primary">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div><a href="@Url.Action("AddFAQ")" class="btn btn-primary mt-3">Add New FAQ</a></div>
+<div><a href="@Url.Action("Index","Admin")" class="btn btn-primary mt-3">Dashboard</a></div>

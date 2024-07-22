@@ -1,0 +1,33 @@
+﻿@model List<InfoPortalWeb.Models.User>
+
+@{
+    ViewData["Title"] = "Users";
+    var checkSession = ViewBag.checkSession;
+}
+
+<h1>Users</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+                <td>
+                    <a href="@Url.Action("UserDetails", new { ID = user.ID })" class="btn btn-primary">Details</a> |
+                    <a href="@Url.Action("UpdateUser", new { ID = user.ID })" class="btn btn-primary">Edit</a> |
+                    <a href="@Url.Action("DeleteUser", new { ID = user.ID })" class="btn btn-primary">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div><a href="@Url.Action("Index","Admin")" class="btn btn-primary mt-3">Dashboard</a></div>

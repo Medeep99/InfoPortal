@@ -1,0 +1,13 @@
+﻿@model InfoPortalWeb.Models.Content
+
+@{
+    var checkSession = ViewBag.checkSession;
+    ViewData["Title"] = "Content Details";
+    Layout = "~/Views/Shared/_userLayout.cshtml";
+}
+
+<h1>@Model.Title</h1>
+
+<p>@Model.Description</p>
+
+<a href="@Url.Action("Index","User")" class="btn btn-primary mt-3" >Back to Content List</a>

@@ -1,0 +1,661 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\user\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\user\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\models\\feebackinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\models\\feebackinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\user\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\user\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\user\\fetchfaq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\user\\fetchfaq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\user\\fetchcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\user\\fetchcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\admin\\updateuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\admin\\updateuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\admin\\fetchuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\admin\\fetchuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\admin\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\admin\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\admin\\fetchfaq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\admin\\fetchfaq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\admin\\fetchcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\admin\\fetchcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\admin\\fetchfeedbackinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\admin\\fetchfeedbackinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\admin\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\admin\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\admin\\updatefaq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\admin\\updatefaq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\admin\\updatecontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\admin\\updatecontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\admin\\addfaq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\admin\\addfaq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\admin\\addcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\admin\\addcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\infoportalweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\infoportalweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\services\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\services\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|c:\\users\\sharm\\onedrive\\desktop\\egov\\infoportalweb\\infoportalweb\\migrations\\20240720073752_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF32285-2404-40E2-A63A-CF4A156CA8C5}|InfoPortalWeb\\InfoPortalWeb.csproj|solutionrelative:infoportalweb\\migrations\\20240720073752_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\User\\UserProfile.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\UserProfile.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\User\\UserProfile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:19:29.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Controllers\\UserController.cs",
+              "RelativeToolTip": "InfoPortalWeb\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAUwFQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:00:44.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_userLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Shared\\_userLayout.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Shared\\_userLayout.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Shared\\_userLayout.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Shared\\_userLayout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwCgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:54:45.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\User\\Feedback.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\Feedback.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\User\\Feedback.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:18:42.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:20:08.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:19:04.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:19:36.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeebackInfo.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Models\\FeebackInfo.cs",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Models\\FeebackInfo.cs",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Models\\FeebackInfo.cs",
+              "RelativeToolTip": "InfoPortalWeb\\Models\\FeebackInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:02:49.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:20:01.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FetchFAQ.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\FetchFAQ.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\User\\FetchFAQ.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\FetchFAQ.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\User\\FetchFAQ.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:19:52.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FetchContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\FetchContent.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\User\\FetchContent.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\User\\FetchContent.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\User\\FetchContent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:19:47.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:39:19.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T15:48:11.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\UpdateUser.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Admin\\UpdateUser.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\UpdateUser.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Admin\\UpdateUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:18:16.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:17:38.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "InfoPortalWeb\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwJsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:00:34.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Models\\Admin.cs",
+              "RelativeToolTip": "InfoPortalWeb\\Models\\Admin.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:01:57.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InfoPortalWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:01:26.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FetchUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\FetchUser.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Admin\\FetchUser.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\FetchUser.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Admin\\FetchUser.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:17:28.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\Profile.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Admin\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\Profile.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Admin\\Profile.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:15:26.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:13:22.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FetchFAQ.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\FetchFAQ.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Admin\\FetchFAQ.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\FetchFAQ.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Admin\\FetchFAQ.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:17:14.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FetchContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\FetchContent.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Admin\\FetchContent.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\FetchContent.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Admin\\FetchContent.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:17:08.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FetchFeedbackInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\FetchFeedbackInfo.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Admin\\FetchFeedbackInfo.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\FetchFeedbackInfo.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Admin\\FetchFeedbackInfo.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:14:48.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\UserDetails.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Admin\\UserDetails.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\UserDetails.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Admin\\UserDetails.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:18:21.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\UpdateContent.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Admin\\UpdateContent.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\UpdateContent.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Admin\\UpdateContent.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:17:48.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateFAQ.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\UpdateFAQ.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Admin\\UpdateFAQ.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\UpdateFAQ.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Admin\\UpdateFAQ.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:17:54.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddFAQ.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\AddFAQ.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Admin\\AddFAQ.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\AddFAQ.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Admin\\AddFAQ.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:17:00.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\AddContent.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Admin\\AddContent.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Admin\\AddContent.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Admin\\AddContent.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:13:54.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T15:28:55.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "InfoPortalWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T15:40:40.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Program.cs",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Program.cs",
+              "RelativeToolTip": "InfoPortalWeb\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:20:20.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\appsettings.json",
+              "RelativeToolTip": "InfoPortalWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T07:20:33.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Models\\Content.cs",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Models\\Content.cs",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Models\\Content.cs",
+              "RelativeToolTip": "InfoPortalWeb\\Models\\Content.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:02:37.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FAQ.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Models\\FAQ.cs",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Models\\FAQ.cs",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Models\\FAQ.cs",
+              "RelativeToolTip": "InfoPortalWeb\\Models\\FAQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:02:44.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "InfoPortalWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\InfoPortalWeb.csproj",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\InfoPortalWeb.csproj",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\InfoPortalWeb.csproj",
+              "RelativeToolTip": "InfoPortalWeb\\InfoPortalWeb.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T07:03:23.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240720073752_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Migrations\\20240720073752_Initial.cs",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Migrations\\20240720073752_Initial.cs",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Migrations\\20240720073752_Initial.cs",
+              "RelativeToolTip": "InfoPortalWeb\\Migrations\\20240720073752_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:37:52.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Services\\DBContext.cs",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Services\\DBContext.cs",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Services\\DBContext.cs",
+              "RelativeToolTip": "InfoPortalWeb\\Services\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:03:47.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "InfoPortalWeb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:02:43.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Models\\User.cs",
+              "RelativeDocumentMoniker": "InfoPortalWeb\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sharm\\OneDrive\\Desktop\\EGOV\\InfoPortalWeb\\InfoPortalWeb\\Models\\User.cs",
+              "RelativeToolTip": "InfoPortalWeb\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:02:59.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

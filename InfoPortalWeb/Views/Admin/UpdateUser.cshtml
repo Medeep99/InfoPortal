@@ -1,0 +1,26 @@
+﻿@model InfoPortalWeb.Models.User
+
+@{
+    ViewData["Title"] = "Edit User";
+    var checkSession = ViewBag.checkSession;
+}
+
+<h1>Edit User</h1>
+
+<form asp-action="UpdateUser" method="post">
+    <input type="hidden" name="ID" value="@Model.ID" />
+    <div class="form-group">
+        <label for="name">Name:</label>
+        <input type="text" name="Name" class="form-control" value="@Model.Name" required />
+    </div>
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" name="Email" class="form-control" value="@Model.Email" required />
+    </div>
+    <div class="form-group">
+        <label for="password">Password:</label>
+        <input type="password" name="Password" class="form-control" value="@Model.Password" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Update User</button>
+</form>
+<div><a href="@Url.Action("Index","Admin")">Dashboard</a></div>

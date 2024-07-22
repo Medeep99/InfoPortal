@@ -1,0 +1,23 @@
+﻿@model InfoPortalWeb.Models.FAQ
+
+@{
+    ViewData["Title"] = "Add FAQ";
+    var checkSession = ViewBag.checkSession;
+}
+
+<h1>Add FAQ</h1>
+
+<form asp-action="AddFAQ" method="post">
+    <div class="form-group">
+        <label for="quesiton">Question:</label>
+        <input type="text" name="Quesiton" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="answer">Answer:</label>
+        <textarea name="Answer" class="form-control" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Add FAQ</button>
+</form>
+
+<a href="@Url.Action("FetchFAQ")">Back to FAQ List</a>
+<div><a href="@Url.Action("Index","Admin")">Dashboard</a></div>

@@ -1,0 +1,27 @@
+﻿@model InfoPortalWeb.Models.User
+
+@{
+    ViewData["Title"] = "Register";
+    var checkSession = ViewBag.checkSession;
+    Layout = "~/Views/Shared/_userLayout.cshtml";
+}
+
+<h1>Register</h1>
+
+<form asp-action="Register" method="post">
+    <div class="form-group">
+        <label for="name">Name:</label>
+        <input type="text" name="Name" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" name="Email" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="password">Password:</label>
+        <input type="password" name="Password" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>
+
+<a href="@Url.Action("Login")">Back to Login</a>

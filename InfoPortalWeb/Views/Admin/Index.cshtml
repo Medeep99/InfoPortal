@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+    var checkSession = ViewBag.checkSession;
+}
+
+<h1>Admin Dashboard</h1>
+
+<div class="dashboard">
+    <p>Welcome to the Admin Dashboard!</p>
+
+    <div class="dashboard-links">
+        <a href="@Url.Action("Profile")" class="btn btn-info">View Profile</a>
+        <a href="@Url.Action("FetchUser")" class="btn btn-primary">Manage Users</a>
+        <a href="@Url.Action("FetchFeedbackInfo")" class="btn btn-success">View Feedback</a>
+        <a href="@Url.Action("FetchContent")" class="btn btn-warning">Manage Content</a>
+        <a href="@Url.Action("FetchFAQ")" class="btn btn-danger">Manage FAQ</a>
+        <a href="@Url.Action("Logout")" class="btn btn-secondary">Logout</a>
+    </div>
+</div>
+
+<style>
+    .dashboard {
+        margin: 20px;
+    }
+    .dashboard-links {
+        margin-top: 20px;
+    }
+    .dashboard-links .btn {
+        margin-right: 10px;
+    }
+</style>

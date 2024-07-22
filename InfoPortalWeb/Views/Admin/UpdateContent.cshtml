@@ -1,0 +1,22 @@
+﻿@model InfoPortalWeb.Models.Content
+
+@{
+    ViewData["Title"] = "Edit Content";
+    var checkSession = ViewBag.checkSession;
+}
+
+<h1>Edit Content</h1>
+
+<form asp-action="UpdateContent" method="post">
+    <input type="hidden" name="ID" value="@Model.ID" />
+    <div class="form-group">
+        <label for="title">Title:</label>
+        <input type="text" name="Title" class="form-control" value="@Model.Title" required />
+    </div>
+    <div class="form-group">
+        <label for="description">Description:</label>
+        <textarea name="Description" class="form-control" required>@Model.Description</textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Update Content</button>
+</form>
+<div><a href="@Url.Action("Index","Admin")">Dashboard</a></div>

@@ -1,0 +1,17 @@
+﻿@model InfoPortalWeb.Models.User
+
+@{
+    ViewData["Title"] = "User Details";
+    var checkSession = ViewBag.checkSession;
+}
+
+<h1>User Details</h1>
+
+<div>
+    <p><strong>Name:</strong> @Model.Name</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+</div>
+
+<a href="@Url.Action("FetchUser")">Back to Users List</a>
+
+<div><class="mb3 mt3 btn btn-primary "  a href="@Url.Action("Index","Admin")">Dashboard</class></div>

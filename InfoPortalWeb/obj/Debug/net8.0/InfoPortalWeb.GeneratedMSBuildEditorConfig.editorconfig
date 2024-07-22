@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InfoPortalWeb
+build_property.RootNamespace = InfoPortalWeb
+build_property.ProjectDir = C:\Users\sharm\OneDrive\Desktop\EGOV\InfoPortalWeb\InfoPortalWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sharm\OneDrive\Desktop\EGOV\InfoPortalWeb\InfoPortalWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Admin/AddContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQ29udGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Admin/AddFAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkRkFRLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Admin/FetchContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmV0Y2hDb250ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Admin/FetchFAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmV0Y2hGQVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Admin/FetchFeedbackInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmV0Y2hGZWVkYmFja0luZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Admin/FetchUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmV0Y2hVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Admin/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Admin/UpdateContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlQ29udGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Admin/UpdateFAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlRkFRLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Admin/UpdateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Admin/UserDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/User/Feedback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxGZWVkYmFjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/User/FetchContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxGZXRjaENvbnRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/User/FetchFAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxGZXRjaEZBUS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/User/UserProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/OneDrive/Desktop/EGOV/InfoPortalWeb/InfoPortalWeb/Views/Shared/_userLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF91c2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-feykngzpkm

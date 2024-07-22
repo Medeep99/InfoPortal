@@ -1,0 +1,22 @@
+﻿@model InfoPortalWeb.Models.Content
+
+@{
+    ViewData["Title"] = "Add Content";
+    var checkSession = ViewBag.checkSession;
+}
+
+<h1>Add Content</h1>
+
+<form asp-action="AddContent" method="post">
+    <div class="form-group">
+        <label for="title">Title:</label>
+        <input type="text" name="Title" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="description">Description:</label>
+        <textarea name="Description" class="form-control" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Add Content</button>
+</form>
+<div class=" btn btn-primary mb-3 mt-3"><a href="@Url.Action("Index","Admin")">Dashboard</a></div>
+

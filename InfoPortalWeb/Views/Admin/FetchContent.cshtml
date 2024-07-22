@@ -1,0 +1,33 @@
+﻿@model List<InfoPortalWeb.Models.Content>
+
+@{
+    ViewData["Title"] = "Content";
+    var checkSession = ViewBag.checkSession;
+}
+
+<h1>Content</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var content in Model)
+        {
+            <tr>
+                <td>@content.Title</td>
+                <td>@content.Description</td>
+                <td>
+                    <a href="@Url.Action("UpdateContent", new { ID = content.ID })" class="btn btn-primary">Edit</a> |
+                    <a href="@Url.Action("DeleteContent", new { ID = content.ID })" class="btn btn-primary">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div><a href="@Url.Action("Index","Admin")" class="btn btn-primary mt-3">Dashboard</a></div>

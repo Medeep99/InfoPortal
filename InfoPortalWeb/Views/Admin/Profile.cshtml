@@ -1,0 +1,25 @@
+﻿@model InfoPortalWeb.Models.Admin
+
+@{
+    ViewData["Title"] = "Admin Profile";
+    var checkSession = ViewBag.checkSession;
+}
+
+<h1>Admin Profile</h1>
+
+<form asp-action="Profile" method="post">
+    <div class="form-group">
+        <label for="name">Name:</label>
+        <input type="text" name="Name" class="form-control" value="@Model.Name" required />
+    </div>
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" name="Email" class="form-control" value="@Model.Email" required />
+    </div>
+    <div class="form-group">
+        <label for="password">Password:</label>
+        <input type="password" name="Password" class="form-control" value="@Model.Password" required />
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Update Profile</button>
+</form>
+<div><a href="@Url.Action("Index","Admin")" class="btn btn-primary mt-3">Dashboard</a></div>
